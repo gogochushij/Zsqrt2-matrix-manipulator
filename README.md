@@ -3,7 +3,7 @@
 This lets you perform gaussian transformations on matrix over ring Z[sqrt(2)] in a console-like environment.
 
 # Getting started
-After you compile the source, place file 'matrix.txt' in the same directory. Type your matrix as provided in the example below.
+After you compile the [source](/snf.cpp) (which consists of only one file), place file 'matrix.txt' in the same directory. Type your matrix as provided in the example below.
 ```
 matrix.txt:     Actual matrix: 
 0 -1 0 0        -sqrt(2)       0  
