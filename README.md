@@ -22,7 +22,7 @@ Otherwise you'll get an error message telling you what you did wrong.
 Notice that the first element of the matrix in the example is included in brackets `( )`. This is a useful feature -- see Denotions.
 
 # This is so confusing, can I learn from an example?!
-Sure, go ahead! The file example.txt is a listing of how I calculated SNF of a 4x3 matrix using this script.
+Sure, go ahead! The file [example.txt](/example.txt) is a listing of how I calculated Smith Normal Form of a 4x3 matrix using this script.
 
 # Denotions
 All rows and columns are numerated from 1, not 0.
